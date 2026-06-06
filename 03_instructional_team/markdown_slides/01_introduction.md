@@ -29,6 +29,12 @@ $ echo "Data Sciences Institute"
 2. Foundation models emerged from language models via self-supervision, enabling massive scale without costly data labeling.
 3. AI engineering is primarily about **adaptation** (prompt engineering and fine-tuning), not model training.
 4. Planning an AI product requires explicit quality, latency, and cost metrics — and must account for the last-mile challenge.
+
+---
+
+## Main Points (cont.)
+
+
 5. Human-in-the-loop design is a deliberate choice: define where humans must stay involved vs. where automation can take over.
 6. The AI stack has three layers: Application Development, Model Development, and Infrastructure.
 7. Competitive advantage in AI rests on **data and distribution**, not technology alone.
@@ -506,6 +512,12 @@ Illustration from ["The Rise of the AI Engineer" (Wang, 2023)](https://www.laten
 2. Foundation models emerged from language models via self-supervision, enabling massive scale without costly data labeling.
 3. AI engineering is primarily about **adaptation** (prompt engineering and fine-tuning), not model training.
 4. Planning an AI product requires explicit quality, latency, and cost metrics — and must account for the last-mile challenge.
+
+---
+
+## Main Points (cont.)
+
+
 5. Human-in-the-loop design is a deliberate choice: define where humans must stay involved vs. where automation can take over.
 6. The AI stack has three layers: Application Development, Model Development, and Infrastructure.
 7. Competitive advantage in AI rests on **data and distribution**, not technology alone.
